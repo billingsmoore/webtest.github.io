@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+  <header>
+   A test website.
+  </header>
+
+  <body>
+    <div>
+      <p>test successful</p>
+    </div>
+  </body>
+ </html>
