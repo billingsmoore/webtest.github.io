@@ -1,11 +1,6 @@
 <html>
-   <style>
-      p {
-        color: blue
-      }
-   </style>
   <body>
-    <p >Test successful</p>
+    <p style="color: blue">Test successful</p>
   </body>
  </html>
   
