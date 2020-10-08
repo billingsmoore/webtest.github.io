@@ -1,6 +1,6 @@
 <html>
   <head>
-<link rel="stylesheet" href="https://www.billingsmoore.github.io/webtest.github.io/stylesheet.css">
+<link rel="stylesheet" href="stylesheet.css">
 </head>
   <body>
     <p>Test successful</p>
